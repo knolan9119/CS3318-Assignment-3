@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CS3318JavaTDD" target="17" />
+      <module name="CS3318JavaTDD" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -29,4 +29,8 @@ public class User {
     public String toString() {
         return "email address: "+this.getEmailAddressAsString()+"\npassword: "+this.getPasswordAsString();
     }
+
+    public boolean hasSameEmailAddress(User other){
+        return this.getEmailAddressAsString().equals(other.getEmailAddressAsString());
+    }
 }

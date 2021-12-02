@@ -16,8 +16,8 @@
          </font>
       </Label>
       <Label fx:id="messageField" alignment="CENTER" prefHeight="17.0" prefWidth="340.0" textAlignment="CENTER" wrapText="true" />
-      <TextField id="userEmail" fx:id="userEmailAddress" alignment="CENTER" prefHeight="2.0" prefWidth="149.0" promptText="Enter Email Address" />
-      <PasswordField id="userPassword" fx:id="userPassword" alignment="CENTER" promptText="Enter Password">
+      <TextField id="userEmail" fx:id="userEmailAddress" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="2.0" prefWidth="149.0" promptText="Enter Email Address" />
+      <PasswordField id="userPassword" fx:id="userPassword" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" promptText="Enter Password">
          <tooltip>
             <Tooltip contentDisplay="RIGHT" text="-Must contain at least 7 characters.&#10;-Must contain at least one letter.&#10;-Must contain at least one digit.&#10;-Must contain at least one special character from: *^&amp;@!." textAlignment="JUSTIFY" wrapText="true">
                <font>

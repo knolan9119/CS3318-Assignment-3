@@ -1,0 +1,54 @@
+@options
+@argfile
+--class-path
+'C:/Users/Killian/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1.jar;C:/Users/Killian/.m2/repository/org/openjfx/javafx-graphics/17.0.0.1/javafx-graphics-17.0.0.1.jar;C:/Users/Killian/.m2/repository/org/openjfx/javafx-base/17.0.0.1/javafx-base-17.0.0.1.jar;C:/Users/Killian/.m2/repository/org/openjfx/javafx-fxml/17.0.0.1/javafx-fxml-17.0.0.1.jar'
+--module-path
+'C:/Users/Killian/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1-win.jar;C:/Users/Killian/.m2/repository/org/openjfx/javafx-fxml/17.0.0.1/javafx-fxml-17.0.0.1-win.jar;C:/Users/Killian/IdeaProjects/CS3318JavaTDD/target/CS3318JavaTDD-1.0-SNAPSHOT.jar;C:/Users/Killian/.m2/repository/org/openjfx/javafx-base/17.0.0.1/javafx-base-17.0.0.1-win.jar;C:/Users/Killian/.m2/repository/org/openjfx/javafx-graphics/17.0.0.1/javafx-graphics-17.0.0.1-win.jar'
+--patch-module
+cs3318assignment3tdd.cs3318javatdd='C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java;C:/Users/Killian/IdeaProjects/CS3318JavaTDD/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+--module-source-path
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/target/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CS3318JavaTDD 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CS3318JavaTDD 1.0-SNAPSHOT API'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/DuplicateUserException.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/EmailAddress.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/Main.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/MainApplication.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/Password.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/SignUpController.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/User.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/cs3318assignment3tdd/cs3318javatdd/UserList.java'
+'C:/Users/Killian/IdeaProjects/CS3318JavaTDD/src/main/java/module-info.java'
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\allclasses-index.html = 1638716443801
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\allpackages-index.html = 1638716443809
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\element-list = 1638716443659
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\help-doc.html = 1638716443857
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\index-all.html = 1638716443844
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\index.html = 1638716443850
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\jquery-ui.overrides.css = 1638716443972
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\member-search-index.js = 1638716443824
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\module-search-index.js = 1638716443814
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\overview-tree.html = 1638716443785
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\package-search-index.js = 1638716443817
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\script.js = 1638716443872
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\search.js = 1638716443877
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\serialized-form.html = 1638716443712
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\stylesheet.css = 1638716443863
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\tag-search-index.js = 1638716443830
+C:\Users\Killian\IdeaProjects\CS3318JavaTDD\target\apidocs\type-search-index.js = 1638716443820

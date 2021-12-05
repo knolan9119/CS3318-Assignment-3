@@ -25,6 +25,11 @@ public class EmailAddress {
 
     }
 
+    /**
+     * Checks if the provided email is well-formed based on RFC 5322.
+     * @param email
+     * @return boolean
+     */
     private boolean isWellFormed(String email){
         Pattern pattern = Pattern.compile("^[a-zA-Z0-9_!#$%&'*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$");
         Matcher matcher = pattern.matcher(email);

@@ -10,7 +10,7 @@
 
 <VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cs3318assignment3tdd.cs3318javatdd.SignUpController">
    <children>
-      <Label text="Sign Up Form" textAlignment="CENTER">
+      <Label maxHeight="-Infinity" maxWidth="-Infinity" text="Sign Up Form" textAlignment="CENTER">
          <font>
             <Font size="20.0" />
          </font>
